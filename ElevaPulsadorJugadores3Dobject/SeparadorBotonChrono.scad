@@ -10,3 +10,5 @@ cylinder (r1=rgrande, r2=rpequeno, h=h1, $fn=128);
     translate ([ 37/2,0,0])   cylinder(r=2, h=20, $fn=24);
     translate ([-37/2,0,0])   cylinder(r=2, h=20, $fn=24 );
 }
+
+// Diseño por MiloBarral
